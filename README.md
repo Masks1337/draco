@@ -1,6 +1,6 @@
 # hello, wsg im draco 
 
-<img src="https://cdn.discordapp.com/attachments/697225367970250853/784247799176888331/image0.gif" alt="Avatar" style="border-radius: 95%;">
+<img src="https://media.discordapp.net/attachments/727113952764624916/781929129536258078/image1_4.gif" alt="Avatar" style="border-radius: 95%;">
 <a href="https://discord.bio/p/8203">discord</a> 
 ·
 <a href="https://www.youtube.com/channel/UCz6rQbYu6HIw6bq9U9bMZlg">youtube</a>
