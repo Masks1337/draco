@@ -1,4 +1,4 @@
-**HI IM DRACO**
+# hello, wsg im draco 
 
 <img src="https://cdn.discordapp.com/attachments/697225367970250853/784247799176888331/image0.gif" style="border-radius: 95%;">
 
